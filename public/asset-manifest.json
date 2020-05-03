@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/public/static/js/main.0667839b.chunk.js",
+    "main.js.map": "/public/static/js/main.0667839b.chunk.js.map",
+    "runtime-main.js": "/public/static/js/runtime-main.eecf4f8a.js",
+    "runtime-main.js.map": "/public/static/js/runtime-main.eecf4f8a.js.map",
+    "static/js/2.c13a5d98.chunk.js": "/public/static/js/2.c13a5d98.chunk.js",
+    "static/js/2.c13a5d98.chunk.js.map": "/public/static/js/2.c13a5d98.chunk.js.map",
+    "index.html": "/public/index.html",
+    "precache-manifest.947872f058ed9670e71d152b0c6e8e03.js": "/public/precache-manifest.947872f058ed9670e71d152b0c6e8e03.js",
+    "service-worker.js": "/public/service-worker.js",
+    "static/js/2.c13a5d98.chunk.js.LICENSE.txt": "/public/static/js/2.c13a5d98.chunk.js.LICENSE.txt",
+    "static/media/black-king.svg": "/public/static/media/black-king.f2bac027.svg",
+    "static/media/black-man.svg": "/public/static/media/black-man.5f8cecc2.svg",
+    "static/media/white-king.svg": "/public/static/media/white-king.2ad2b99d.svg",
+    "static/media/white-man.svg": "/public/static/media/white-man.3d61ee85.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eecf4f8a.js",
+    "static/js/2.c13a5d98.chunk.js",
+    "static/js/main.0667839b.chunk.js"
+  ]
+}
